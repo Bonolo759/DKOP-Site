@@ -1,5 +1,19 @@
 html {margin: auto;
 margin: auto;}
-h1 {color:greenyellow}
-p {font-size: 16px;}
+h1 {color:greenyellow;}
+p {font-size: 16px;
+line-height: 1.5;}
+a {text-decoration: none;
+color: blue;}
+ul {list-style-type: square;
+margin-left: 20px;}
+li {margin-bottom: 5px;
+color: darkgray;}
+img {max-width: 100%;
+height: auto;
+border: none;
+padding: 10px 15px;}
+footer {text-align: center;
+padding: 20px;
+background-color: green}
 
